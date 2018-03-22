@@ -3,7 +3,7 @@ AspNet.Identity.Mongo
 
 A mongodb provider for the new ASP.NET Identity framework. My aim is to ensure this project is well tested and configurable.
 
-Updated by Kirk
+Updated by Kirk McPherson
 
 ## Usage
 
